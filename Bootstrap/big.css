@@ -1,0 +1,29 @@
+.background{
+
+	background-image: url("Big.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 660px;
+
+}
+
+
+.headerset{
+
+	padding-top: 230px;
+	box-sizing: boarder-box;
+
+}
+
+
+.headerset h2{
+	font-size: 50px;
+	font-weight: bold;
+	}
+.headerset h1{
+	font-size: 50px;
+
+}
+
+
